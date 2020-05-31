@@ -1,4 +1,4 @@
-# Spam-Detection-using-Hybrid-Machine-Learning-Approach
+# Spam-or-Ham-Classification-using-Hybrid-Machine-Learning-Approach
 Training the machine to classify the message as spam or ham by 3 famous classification Machine Learning algorithms 
 (Multinomial Naive Bayes, Bernoulli Naive Bayes and Logistic Regression). 
 
